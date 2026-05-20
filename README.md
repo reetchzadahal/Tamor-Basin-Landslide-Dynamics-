@@ -29,7 +29,7 @@ The map below demonstrates the watershed-clipped LULC output for the Tamor Basin
 
 ---
 
-## 📈 Data Summary (2000–2024)
+## Data Summary (2000–2024)
 The complete time-series historical data sheet is available in `data/TamorBasin_25Year_Trend(in).csv`. 
 
 ---
