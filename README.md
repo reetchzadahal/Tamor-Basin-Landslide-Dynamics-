@@ -8,7 +8,7 @@ This repository contains the data and spatial outputs generated during a 3-month
 ### Key Finding: The Statistical Paradox
 While seasonal monsoon precipitation is traditionally modeled as the primary driver of Himalayan landslides, statistical analysis of this 25-year dataset yielded a near-zero correlation (**$r = 0.06$**) between annual rainfall totals and basin-wide landslide surface area. 
 
-* **2006 Anomaly:** A massive spike of **12,678.30 Hectares** occurred during a climatologically average rainfall year, indicating heavy *anthropogenic priming* (such as regional infrastructure and road construction projects).
+* **2006 Anomaly:** A massive spike of **12,678.30 Hectares** occurred during a climatologically average rainfall year, indicating heavy anthropogenic priming (such as regional infrastructure and road construction projects).
 
 ---
 
